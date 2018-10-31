@@ -1,0 +1,2 @@
+- To run the project you need to have composer installed
+- Then you need to run "composer install" command needed for autoloader and for phpunit
